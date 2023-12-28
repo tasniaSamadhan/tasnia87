@@ -238,7 +238,7 @@
     z-index: 1;
 }
 .col-lg-3{
-    width: 33% !important;
+padding: 3%;
 }
 
 .section-3-heading {
@@ -712,6 +712,7 @@
     top: 0;
     bottom: 0;
 }
+
 
 .masonry .grid__body {
     position: absolute;
